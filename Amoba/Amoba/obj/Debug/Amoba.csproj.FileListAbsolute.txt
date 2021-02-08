@@ -1,0 +1,6 @@
+D:\NT\Amoba\Amoba\bin\Debug\Amoba.exe.config
+D:\NT\Amoba\Amoba\bin\Debug\Amoba.exe
+D:\NT\Amoba\Amoba\bin\Debug\Amoba.pdb
+D:\NT\Amoba\Amoba\obj\Debug\Amoba.csprojAssemblyReference.cache
+D:\NT\Amoba\Amoba\obj\Debug\Amoba.exe
+D:\NT\Amoba\Amoba\obj\Debug\Amoba.pdb
